@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Sanjidh Shahriar
+# 👋 Hi, I’m  Shahriar Kamal
 
-### ⚡ Electrical Engineering Student | AI & Automation Enthusiast
+### ⚡ Electrical Engineering Student,KUET  | Passionate About Embedded Systems, Automation, and Innovative Engineering Solutions
 _Turning ideas into real-world tech — from embedded systems to intelligent computer vision._
 
 ---
